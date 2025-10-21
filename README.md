@@ -1,2 +1,2 @@
 # dotnet-grpc
-playground for learning gRPC using .NET for backend services
+learning gRPC using .NET for backend services
