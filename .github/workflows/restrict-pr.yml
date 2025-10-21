@@ -1,4 +1,4 @@
-name: Restrict PR Source to Dev
+name: restrict-pr
 
 on:
   pull_request:
